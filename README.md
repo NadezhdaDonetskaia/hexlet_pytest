@@ -1,3 +1,2 @@
 hexlet_pytest
-
-[![Actions Status](https://github.com/Nella611/hexlet_pytest/main/badge.svg)
+[![CI](https://github.com/Nella611/hexlet_pytest/actions/workflows/main.yml/badge.svg)](https://github.com/Nella611/hexlet_pytest/actions/workflows/main.yml)
